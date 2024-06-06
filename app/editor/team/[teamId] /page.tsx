@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+imp ort { notFound } from "next/navigation";
 import { getTeamByIdString } from "@/app/lib/editor/team/actions";
 import {Input} from '@nextui-org/input';
 
